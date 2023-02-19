@@ -1,0 +1,5 @@
+https://docs.github.com/pt/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
+
+Comando para subir para o github:
+
+$ git push origin main
